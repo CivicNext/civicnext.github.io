@@ -8,12 +8,18 @@ table.center {
     margin-right:auto;
     }
     
-body {text-align:center;}
+body {
+    text-align:center;
+    }
 
 p {
-    margin:30px;
+    margin-top:0%;
+    margin-bottom:0%;
+    margin-left:20%;
+    margin-right:20%;
     }
     
 img.logo {
-    width: 70%;
+    width:80%;
+    height80%;
     }
