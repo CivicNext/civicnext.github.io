@@ -1,6 +1,6 @@
 div {
-display: flex;
-align-items:center;
+    display: flex;
+    align-items:center;
     }
 
 table.center {
@@ -11,5 +11,9 @@ table.center {
 body {text-align:center;}
 
 p {
-margin:30px;
+    margin:30px;
+    }
+    
+img.logo {
+    width: 70%;
     }
