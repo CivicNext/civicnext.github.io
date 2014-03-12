@@ -12,13 +12,23 @@ body {
     text-align:center;
     }
 
-p {
+p.body {
     margin-top:1%;
     margin-bottom:0%;
     margin-left:20%;
     margin-right:20%;
+    font-size:150%;
     }
-    
+
+p.footer {
+    margin-top:1%;
+    margin-bottom:0%;
+    margin-left:20%;
+    margin-right:20%;
+    font-size:50%;
+    }
+
+
 img.logo {
     width:80%;
     height80%;
